@@ -2,8 +2,7 @@
 
 
 <h2>💫 About Me</h2>
-
-<img src="https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTk0MzY5MTksIm5iZiI6MTc1OTQzNjYxOSwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEwMDIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMDAyVDIwMjMzOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWNmZWU0MjdlOTQxMDc1MjEyNzVmOGNmMzE0Zjg0ZTI2ODVkOTAwNGM3ZjJiZTAwN2VhZjFlYmE5NjhhZmJhMTcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.JM-JEPlCL1ZnQURCXPqmobbroVfWnAMUPOlYoL9Iy10" width="500">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="900">
 <!--<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <div align="left">-->
 
@@ -17,9 +16,9 @@
  <br>
 
 <div>
-   <a href="https://github.com/igor-dev7">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igor-dev7&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igor-dev7&layout=compact&langs_count=6&theme=gotham"/>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=igordev777i&theme=tokyonight&border_radius=8.2&locale=pt_BR&short_numbers=true" alt="GitHub Streak" />
+  </a>
 </div>
 
 <div style="display: inline_block"><br>
